@@ -13,7 +13,7 @@
 <label for="nom2">Digite su Segundo numero</label>
 <input type="text" name="nom2" id="nom2">
 <br>
-<input type="submit" value="Calcular">
+<input type="submit" value="Calcular Operaciones">
 <br>
 <?php
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
